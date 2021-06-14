@@ -5,5 +5,5 @@ module.exports = {
 
   // 要区分生产环境和开发环境 只有在部署的时候也就是生产环境下需要设置 publicPath
   // /new-cnode/是对应的仓库名
-  publicPath: process.env.NODE_ENV === "production" ? "/MyCnode/" : "/"
+  publicPath: process.env.NODE_ENV === "production" ? "/MyVueCnode/" : "/"
 };
