@@ -9,7 +9,7 @@
             <router-link to="/share">分享</router-link>
             <router-link to="/ask">问答</router-link>
             <router-link to="/job">招聘</router-link>
-            <router-link to="/dev">客户端测试</router-link>
+            <router-link to="/dev">客户端</router-link>
           </div>
         </template>
         <!-- 传递内容插槽 -->
